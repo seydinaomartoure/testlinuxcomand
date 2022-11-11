@@ -1,3 +1,24 @@
 bonjour je debute sur les commandes de bases de linux
  pour préparer la piscine du mois de decembre de la zone01 Dakar
  j'espère avoir quelques notions de bases avant la piscine.
+ les commandes de bases de linux: 
+ pwd :commande pour savoir dans quel chemin d'accés on est
+ cd : commande pour s'orienter dans les dossiers
+ mkdir: commande pour créer un dossier
+ touch : commande pour créer un fichier
+ cat: commande aussi pour créer un fichier mais aussi d'afficher le contenu du fichier
+ cp: commande pour copier un fichier
+ mv : commande pour deplacer un fichier vers un répertoire
+ rm : commande pour supprimer mais faire trés attention avec cette commande il faut toujours vérifier le dossier que l'on doit suppriemer avant la suppression
+ ls: commande pour lister le contenu d'un dossier
+ ls -l: commande pour lister les droits et permission des fichiers et dossiers
+ chmod : commande pour donner les droits et permissions 
+ chown :commande pour changer de type à l'utilisateur
+ chgrp: commande pour changer de groupe
+ grep : commande grep cherche la chaîne de caractères « <expression> » à l'intérieur des fichiers ou des répertoires spécifiés et affiche les lignes
+ elle est aussi utilisée pour filtrer des données
+ find: commande pour rechercher un fichier ou repertoire 
+ sort :  La commande sort permet de trier les lignes d'un flux de données textes. ... sort [options] -k champs[.car] [options], champ[.car]
+ cut: commande pour délimiter un fichier
+ 
+ 
